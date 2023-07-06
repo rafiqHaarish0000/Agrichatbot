@@ -16,11 +16,11 @@
     <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/color_primary</item>
-        <item name="colorPrimaryVariant">@color/color_accent</item>
+        <item name="colorPrimaryVariant">@color/color_primary</item>
         <item name="colorOnPrimary">@color/grey</item>
         <!-- Secondary brand color. -->
         <item name="colorSecondary">@color/color_primary</item>
-        <item name="colorSecondaryVariant">@color/color_accent</item>
+        <item name="colorSecondaryVariant">@color/color_primary</item>
         <item name="colorOnSecondary">@color/black</item>
         <!-- Status bar color. -->
         <item name="android:statusBarColor" >?attr/colorPrimaryVariant</item>
@@ -31,7 +31,7 @@
     <style name="MaterialTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/color_primary</item>
-        <item name="colorPrimaryVariant">@color/color_accent</item>
+        <item name="colorPrimaryVariant">@color/color_primary</item>
         <item name="colorOnPrimary">@color/grey</item>
     </style>
 
