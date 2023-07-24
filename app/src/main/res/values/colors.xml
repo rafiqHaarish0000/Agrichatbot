@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <color name="color_primary">#085b53</color>
-    <color name="color_accent">#005D10</color>
+    <color name="color_accent">#054d47</color>
     <color name="black">#000000</color>
     <color name="grey">#f4f4f4</color>
     <color name="tint">#444343</color>
@@ -10,6 +10,8 @@
     <color name="borderClr">#1e000000</color>
     <color name="buttonClr">
         #085b53</color>
+    <color name="inactive">#C4C4C4</color>
+    <color name="active">#005D10</color>
 
     <color name="mtrl_textinput_default_box_stroke_color" tools:override="true">#000000</color>
     <color name="gold_dark">#946335</color>
@@ -17,4 +19,7 @@
     <color name="gold">#cea774</color>
     <color name="gold_light">#edd3b2</color>
     <color name="red">#FF0000</color>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
 </resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!-- action button for search -->
+
+    <item android:id="@+id/action_notification1"
+        android:icon="@drawable/more_icon"
+        app:showAsAction="always"
+        android:title="action_notification">
+        <menu>
+            <item android:id="@+id/action_share_us"
+                android:icon="@drawable/history_fill_0_wght_400_grad_0_opsz_48_1"
+                android:title="History" />
+            <item android:id="@+id/action_rate_us"
+                android:icon="@drawable/person_fill_0_wght_400_grad_0_opsz_48_1_1"
+                android:title="Profile" />
+            <item android:id="@+id/action_about"
+                android:checked="false"
+                android:icon="@drawable/delete_fill_0_wght_400_grad_0_opsz_48_2"
+                android:title="Delete" />
+        </menu>
+    </item>
+</menu>
