@@ -1,4 +1,4 @@
-package com.fai.agribot;
+package com.fai.activities;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
@@ -11,6 +11,8 @@ import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
+
+import com.fai.agribot.R;
 
 import org.json.JSONException;
 import org.json.JSONObject;

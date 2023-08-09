@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+
+    </data>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="14dp"
+        android:layout_marginEnd="14dp"
+        android:orientation="vertical">
+<androidx.cardview.widget.CardView
+    android:layout_width="120dp"
+    android:layout_height="40dp"
+    android:layout_gravity="center"
+    android:layout_marginTop="8dp"
+    app:cardCornerRadius="8dp"
+    android:backgroundTint="@color/white">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Yesterday"
+        android:layout_gravity="center"
+        android:textColor="#57646e"
+        style="@style/head_text"/>
+</androidx.cardview.widget.CardView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/h2_text"
+            android:text="what are government scheme for farmers"
+            android:layout_marginTop="4dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/med_text2"
+            android:layout_gravity="start"
+            android:text="what are government scheme for farmers"
+            android:layout_marginTop="4dp"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_marginTop="8dp"
+            android:background="@color/grey"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="4dp"/>
+    </LinearLayout>
+</layout>

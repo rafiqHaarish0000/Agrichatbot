@@ -1,6 +1,4 @@
-package com.fai.agribot;
-
-import static android.content.ContentValues.TAG;
+package com.fai.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.databinding.DataBindingUtil;
@@ -8,11 +6,10 @@ import androidx.databinding.DataBindingUtil;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
-import android.provider.MediaStore;
-import android.util.Log;
 import android.view.View;
 import android.widget.Toast;
 
+import com.fai.agribot.R;
 import com.fai.agribot.databinding.ActivityProfileBinding;
 import com.fai.utils.PermissionUtils;
 

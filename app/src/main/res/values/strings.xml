@@ -4,4 +4,9 @@
     <string name="fist_indicatior_txt">We understand being a farmer\nis not easy</string>
     <string name="second_indicatior_txt">Know all the government\nschemes available</string>
     <string name="third_indicator_txt">For animal husbandry by &amp;\ndairying as well </string>
+
+    <array name="gender_values">
+        <item>Male</item>
+        <item>Female</item>
+    </array>
 </resources>

@@ -1,4 +1,4 @@
-package com.fai.agribot;
+package com.fai.activities;
 
 import static android.content.ContentValues.TAG;
 
@@ -16,6 +16,7 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import com.fai.adapter.ViewPagerAdapter;
+import com.fai.agribot.R;
 
 public class MainActivity extends AppCompatActivity {
     ViewPager mSLideViewPager;

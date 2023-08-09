@@ -1,4 +1,4 @@
-package com.fai.agribot;
+package com.fai.activities;
 
 import android.content.Intent;
 import android.graphics.Bitmap;
@@ -20,6 +20,8 @@ import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
+
+import com.fai.agribot.R;
 
 import org.json.JSONException;
 import org.json.JSONObject;

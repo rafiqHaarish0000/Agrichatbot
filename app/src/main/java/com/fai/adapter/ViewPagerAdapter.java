@@ -13,6 +13,7 @@ import androidx.viewpager.widget.PagerAdapter;
 
 import com.fai.agribot.R;
 
+
 public class ViewPagerAdapter extends PagerAdapter {
 
     Context context;

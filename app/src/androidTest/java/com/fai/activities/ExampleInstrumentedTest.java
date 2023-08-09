@@ -1,4 +1,4 @@
-package com.fai.agribot;
+package com.fai.activities;
 
 import android.content.Context;
 
